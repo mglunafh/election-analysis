@@ -136,7 +136,7 @@ def plot_histogram(ik_info):
     plt.show()
 
 
-data_folder = "data"
+data_folder = "spb_data"
 number_of_tiks = 30
 RIK_info_map = {}
 spb_ik_info = IkInfo("Saint-Petersburg")
